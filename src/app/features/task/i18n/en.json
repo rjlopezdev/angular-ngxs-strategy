@@ -1,0 +1,7 @@
+{
+  "STATUS": {
+    "PENDING": "pending",
+    "ACHIEVED": "achived",
+    "DISCARDED": "discarded"
+  }
+}
